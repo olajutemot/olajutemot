@@ -2,7 +2,7 @@
 - I’m like to code in javaScript
 - I’m currently working on my blog page 
 - I’m currently learning Node JS and Python
-- I’m looking to collaborate and provide solving real world solutions
+- I’m looking to collaborate and provide real world solutions
 - 💬 PS: I am in love with productivity and I love to help people become productive.
 
 <!--
