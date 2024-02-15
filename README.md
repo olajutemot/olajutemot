@@ -1,5 +1,6 @@
 ### Hi👋 I am Olajutemo Timilehin
 - I’m like to code in javaScript
+- I am obsessed with solving real-world problems
 - I’m currently working on my blog page 
 - I’m currently learning Node JS and Python
 - I’m looking to collaborate and provide real world solutions
